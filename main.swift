@@ -72,5 +72,6 @@ Total Salary : \(salary["year"]!) Baht
 -----------------------------------
 Tax Deduction (40%) : \(tax["deduction"]!) Baht
 -----------------------------------
+Total salary for calculate tax : \(salary["year"]! - tax["deduction"]!) Baht
 Total Tax : \(tax["total"]!) Baht
 """)
