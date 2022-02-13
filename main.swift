@@ -33,7 +33,7 @@ let config_tax_rate:[[String:Float]] = [
     "rate":0.30,
   ],
   [
-    "range":-1,
+    "range":0,
     "rate":0.35,
   ]
 ]
